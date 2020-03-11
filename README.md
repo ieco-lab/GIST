@@ -12,7 +12,7 @@ Simultaneous provisioning of multiple benefits – multifunctionality – in veg
 **[Installation Instructions](#installation-instructions)**<br>
 **[Primer](#primer)**<br>
 **[Notes](#notes)**<br>
-**[Feedback](#feedback)**<br>
+**[Feedback and Questions](#feedback-and-questions)**<br>
 
 <hr>
 
@@ -23,8 +23,8 @@ Tran, T.J., Helmus, M.R. & Behm, J.E. (2020). Green infrastructure space and tra
 ## Instructions 
 To run the code as is, you first need to download the datafrom two sources: [iecolab GIST data](https://drive.google.com/open?id=1BvBREOt57L6hZyJWSgV1EGzO83VcNsJw) and [Philadelphia Water Department GI data](https://www.opendataphilly.org/dataset?q=green+infrastructure). The data are stored as zip files and will need to be extracted.
 
-## Feedback
-* Please contact Tyler Tran 
+## Feedback and Questions
+* Please contact Tyler Tran for any questions about how to run the code. 
 
 * If you you've found a bug, open an issue (tagged 'bug') that contains a  [minimal, complete, and verifiable example](https://stackoverflow.com/help/mcve "How to make a great reproducible example?"). We'll try and get back to you quickly. If you are able to solve the bug on your own, please post the correction.
 
