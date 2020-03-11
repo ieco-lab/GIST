@@ -4,6 +4,6 @@ Simultaneous provisioning of multiple benefits – multifunctionality – in veg
 
 To download the data that accompanies this code, [click here.](https://drive.google.com/open?id=1BvBREOt57L6hZyJWSgV1EGzO83VcNsJw)
 
-Public data on green infrastructure from the Philadelphia Water Department can be found [here.] (https://www.opendataphilly.org/dataset?q=green+infrastructure)
+Public data on green infrastructure from the Philadelphia Water Department can be found [here.](https://www.opendataphilly.org/dataset?q=green+infrastructure)
 
 
