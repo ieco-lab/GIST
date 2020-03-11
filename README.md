@@ -6,4 +6,8 @@ To download the data that accompanies this code, [click here.](https://drive.goo
 
 Public data on green infrastructure from the Philadelphia Water Department can be found [here.](https://www.opendataphilly.org/dataset?q=green+infrastructure)
 
+# Citation
+
+Tran, T.J., Helmus, M.R. & Behm, J.E. (2020). Green infrastructure space and traits (GIST) model: Integrating green infrastructure spatial placement and plant traits to maximize multifunctionality. Urban Forestry & Urban Greening, 49, 126635.
+
 
