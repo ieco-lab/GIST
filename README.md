@@ -26,7 +26,7 @@ To run the code as is, you first need to download the datafrom two sources: [iec
 ## Feedback and Questions
 * This repository is a work in progress and is distributed as is, but we welcome feedback.
 
-* Please contact Tyler Tran for any questions about how to run the code. 
+* Please contact Tyler Tran and Matt Helmus for any questions about how to run the code and Jocelyn Behm for any collaboration requests. 
 
 * If you you've found a bug, open an issue (tagged 'bug') that contains a  [minimal, complete, and verifiable example](https://stackoverflow.com/help/mcve "How to make a great reproducible example?"). We'll try and get back to you quickly. If you are able to solve the bug on your own, please post the correction.
 
