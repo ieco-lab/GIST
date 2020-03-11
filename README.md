@@ -12,6 +12,8 @@
 __This repository provides the code and data used in__
 
 Tran, T.J., Helmus, M.R. & Behm, J.E. (2020). Green infrastructure space and traits (GIST) model: Integrating green infrastructure spatial placement and plant traits to maximize multifunctionality. Urban Forestry & Urban Greening, 49, 126635.
+
+[click here for the article](https://www.sciencedirect.com/science/article/pii/S1618866719302778)
 ```
 @article{tran2020green,
   title={Green Infrastructure Space and Traits (GIST) Model: Integrating green infrastructure spatial placement and plant traits to maximize multifunctionality},
