@@ -3,11 +3,25 @@
 ###### Integrative Ecology Lab, Center for Biodiversity, Department of Biology, Temple University, Philadelphia [www.iecolab.org](https://www.iecolab.org "iEcoLab Homepage") 
 
 ### Table of Contents
-**[Overview](#overview)**<br>
 **[Citation](#citation)**<br>
+**[Overview](#overview)**<br>
 **[Instructions](#instructions)**<br>
 **[Feedback and Questions](#feedback-and-questions)**<br>
 
+## Citation
+__This repository provides the code and data used in__
+
+Tran, T.J., Helmus, M.R. & Behm, J.E. (2020). Green infrastructure space and traits (GIST) model: Integrating green infrastructure spatial placement and plant traits to maximize multifunctionality. Urban Forestry & Urban Greening, 49, 126635.
+```
+@article{tran2020green,
+  title={Green Infrastructure Space and Traits (GIST) Model: Integrating green infrastructure spatial placement and plant traits to maximize multifunctionality},
+  author={Tran, Tyler J and Helmus, Matthew R and Behm, Jocelyn E},
+  journal={Urban Forestry \& Urban Greening},
+  pages={126635},
+  year={2020},
+  publisher={Elsevier}
+}
+```
 ## Overview
 
 Simultaneous provisioning of multiple benefits – multifunctionality – in vegetated green infrastructure (GI) is not guaranteed yet may be achieved by planning two critical components of GI: the spatial placement of GI and the traits of the plant species used to vegetate GI. This repository provides code for the Green Infrastructure Space and Traits (GIST) model, a planning tool for evaluating and maximizing GI multifunctionality based on optimizing both site selection and plant traits in GI design to promote urban planning with higher sustainability and benefits to humans. GIST involves identifying priority areas for GI placement and using plant species with traits that maximize benefits and multifunctionality in priority areas.
@@ -15,10 +29,6 @@ Simultaneous provisioning of multiple benefits – multifunctionality – in veg
 ![GIST Framework](https://github.com/ieco-lab/GIST/blob/master/GIST_Framework_Tran_et_al_2020.jpg)
 
 <hr>
-
-## Citation
-
-Tran, T.J., Helmus, M.R. & Behm, J.E. (2020). Green infrastructure space and traits (GIST) model: Integrating green infrastructure spatial placement and plant traits to maximize multifunctionality. Urban Forestry & Urban Greening, 49, 126635.
 
 ## Instructions 
 To run the code as is, you first need to download the datafrom two sources: [iecolab GIST data](https://drive.google.com/open?id=1BvBREOt57L6hZyJWSgV1EGzO83VcNsJw) and [Philadelphia Water Department GI data](https://www.opendataphilly.org/dataset?q=green+infrastructure). The data are stored as zip files and will need to be extracted.
