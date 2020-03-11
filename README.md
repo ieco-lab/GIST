@@ -24,6 +24,8 @@ Tran, T.J., Helmus, M.R. & Behm, J.E. (2020). Green infrastructure space and tra
 To run the code as is, you first need to download the datafrom two sources: [iecolab GIST data](https://drive.google.com/open?id=1BvBREOt57L6hZyJWSgV1EGzO83VcNsJw) and [Philadelphia Water Department GI data](https://www.opendataphilly.org/dataset?q=green+infrastructure). The data are stored as zip files and will need to be extracted.
 
 ## Feedback and Questions
+* This repository is a work in progress and is distributed as is, but we welcome feedback.
+
 * Please contact Tyler Tran for any questions about how to run the code. 
 
 * If you you've found a bug, open an issue (tagged 'bug') that contains a  [minimal, complete, and verifiable example](https://stackoverflow.com/help/mcve "How to make a great reproducible example?"). We'll try and get back to you quickly. If you are able to solve the bug on your own, please post the correction.
