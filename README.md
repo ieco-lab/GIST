@@ -1,7 +1,6 @@
 # Green Infrastructure Space and Traits (GIST) Model
 #### Tyler J. Tran, Matthew R. Helmus, Jocelyn E. Behm
-##### Integrative Ecology Lab, Center for Biodiversity, Department of Biology, Temple University, Philadelphia, PA 19122 USA.
-[www.iecolab.org](https://www.iecolab.org "iEcoLab Homepage") 
+###### Integrative Ecology Lab, Center for Biodiversity, Department of Biology, Temple University, Philadelphia [www.iecolab.org](https://www.iecolab.org "iEcoLab Homepage") 
 
 ### Table of Contents
 **[Overview](#overview)**<br>
