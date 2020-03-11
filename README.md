@@ -3,16 +3,17 @@
 ##### Integrative Ecology Lab, Center for Biodiversity, Department of Biology, Temple University, Philadelphia, PA 19122 USA.
 [www.iecolab.org](https://www.iecolab.org "iEcoLab Homepage") 
 
+### Table of Contents
+**[Overview](#overview)**<br>
+**[Citation](#citation)**<br>
+**[Instructions](#instructions)**<br>
+**[Feedback and Questions](#feedback-and-questions)**<br>
+
+## Overview
+
 Simultaneous provisioning of multiple benefits – multifunctionality – in vegetated green infrastructure (GI) is not guaranteed yet may be achieved by planning two critical components of GI: the spatial placement of GI and the traits of the plant species used to vegetate GI. This repository provides code for the Green Infrastructure Space and Traits (GIST) model, a planning tool for evaluating and maximizing GI multifunctionality based on optimizing both site selection and plant traits in GI design to promote urban planning with higher sustainability and benefits to humans. GIST involves identifying priority areas for GI placement and using plant species with traits that maximize benefits and multifunctionality in priority areas.
 
 ![GIST Framework](https://github.com/ieco-lab/GIST/blob/master/GIST_Framework_Tran_et_al_2020.jpg)
-
-### Table of Contents
-**[Citation](#citation)**<br>
-**[Installation Instructions](#installation-instructions)**<br>
-**[Primer](#primer)**<br>
-**[Notes](#notes)**<br>
-**[Feedback and Questions](#feedback-and-questions)**<br>
 
 <hr>
 
